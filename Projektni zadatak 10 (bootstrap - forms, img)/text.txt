@@ -1,0 +1,11 @@
+Upgrade form elements
+  Form classes
+  Input classes
+
+Upgrade image elements
+  Responsive image
+  Image border
+	.img-rounded
+	.img-circle
+	.img-thumbnail
+	.img-responsive
